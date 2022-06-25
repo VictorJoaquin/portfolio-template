@@ -1,5 +1,7 @@
-# Trayecto de Formación: FullStack Web Developer :rocket:
+## Trayecto de Formación: 
+# FullStack Web Developer 2022:rocket:
 ![...](./assets/imagen2.jpg)
+*Si se puede imaginar, se puede programar...*
 
 :package: **Módulo 1: Entorno de trabajo y control de versiones**
 
